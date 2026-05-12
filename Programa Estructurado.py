@@ -1,7 +1,7 @@
 # Diccionario inicial de usuarios
 usuarios = {
-    "admin": "1234",
-    "kenneth": "abcd"
+    "admin": "12345",
+    "kenneth": "abcde"
 }
 
 # Función para solicitar datos
