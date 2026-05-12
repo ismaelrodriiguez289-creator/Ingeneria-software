@@ -79,7 +79,7 @@ if __name__ == "__main__":
     sistema = SistemaAcceso()
 
     # Usuarios iniciales
-    sistema.agregar_usuario("admin", "1234")
-    sistema.agregar_usuario("kenneth", "abcd")
+    sistema.agregar_usuario("admin", "12344")
+    sistema.agregar_usuario("kenneth", "abcde")
 
     sistema.menu()
